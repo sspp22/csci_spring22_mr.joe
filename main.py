@@ -1,6 +1,5 @@
-print ("----------------------------------")
-print("......... CSCI: GIT LESSON ........")
-print ("----------------------------------")
+print("git from csci")
+
 def sayhello(msg):
     print(f"hello {msg}")
 
